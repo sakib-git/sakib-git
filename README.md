@@ -1,8 +1,7 @@
 <h1 align="center">It's Sakib</h1>
 <h3 align="center">A Fullstack webdev (processing)</h3>
 
-<p align="center" >🌱 Self-taught web developer from Bangladesh, learning every day and building cool things.
-💻 I love working with <strong>JavaScript, React, TailwindCSS</strong> to create clean, minimal, and useful apps.</p>
+<p align="center" >💻 JS & React dev from Bangladesh. Always learning & building cool stuff. 🌱</p>
 
 #### ⚡ On going
 
